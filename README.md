@@ -3,9 +3,6 @@
 </p>
 
 <div align="center">
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/d65eb876-7ef5-4fab-9abb-4f048e35a079" />
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/518d5310-413d-4ec6-8acb-44136701c956" />
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a93644c5-5c55-4b93-b3e9-3e52915b05a4" />
 
 # Tarikur Rahman
 
@@ -39,26 +36,31 @@
 
 <table align="center" width="700">
 	<tr>
-		<th align="center" width="175">Role</th>
-		<th align="center" width="350">Organization</th>
-		<th align="center" width="175">Period</th>
+		<th align="center" width="80">Logo</th>
+		<th align="center" width="140">Role</th>
+		<th align="center" width="300">Organization</th>
+		<th align="center" width="180">Period</th>
 	</tr>
 	<tr>
+		<td align="center"><a href="https://www.facebook.com/teamdemon71"><img src="https://github.com/user-attachments/assets/d65eb876-7ef5-4fab-9abb-4f048e35a079" width="48" alt="Team DEMON71 logo" /></a></td>
 		<td align="center">System Architect</td>
 		<td align="center"><a href="https://www.facebook.com/teamdemon71">Team DEMON71</a></td>
 		<td align="center">Apr 2026 – Present</td>
 	</tr>
 	<tr>
+		<td align="center"><a href="https://www.facebook.com/RoboHaatBD"><img src="https://github.com/user-attachments/assets/518d5310-413d-4ec6-8acb-44136701c956" width="48" alt="Robo Haat BD logo" /></a></td>
 		<td align="center">Founder</td>
 		<td align="center"><a href="https://www.facebook.com/RoboHaatBD">Robo Haat BD</a></td>
 		<td align="center">Dec 2025 – Present</td>
 	</tr>
 	<tr>
+		<td align="center"><a href="https://www.facebook.com/udvabonibigganclubbahubal"><img src="https://github.com/user-attachments/assets/a93644c5-5c55-4b93-b3e9-3e52915b05a4" width="48" alt="Udvaboni Biggan Club Bahubal logo" /></a></td>
 		<td align="center">Club Secretary</td>
 		<td align="center"><a href="https://www.facebook.com/udvabonibigganclubbahubal">Udvaboni Biggan Club Bahubal</a></td>
 		<td align="center">Oct 2025 – Present</td>
 	</tr>
 	<tr>
+		<td align="center"><a href="https://udvabonibd.org/"><img src="https://github.com/user-attachments/assets/a93644c5-5c55-4b93-b3e9-3e52915b05a4" width="48" alt="Udvaboni Biggan Club logo" /></a></td>
 		<td align="center">Research Editor</td>
 		<td align="center"><a href="https://udvabonibd.org/">Udvaboni Biggan Club</a></td>
 		<td align="center">Feb 2023 – Present</td>
