@@ -99,28 +99,8 @@
 	</tr>
 </table>
 
-## What I Work With
-
-`Python` · `TypeScript` · `HTML` · `CSS` · `YOLOv8`
-
-## Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [YOLOv8 Cars Detection](https://github.com/TarikurRahmanBD/YOLOv8-Cars-Detection) | A computer-vision project for detecting cars with YOLOv8. |
-| [Demon71](https://demon71.netlify.app/) | A university website project built with Team Flux. |
-| [UBCB-Core](https://github.com/TarikurRahmanBD/UBCB-Core) | A project connected to Udvaboni Biggan Club. |
-| [Team Flux Robotics AI Hub Template](https://github.com/TarikurRahmanBD/Team-Flux-Robotics-AI-Hub-Portfolio-Template) | A portfolio template for a robotics and AI team. |
-
-## Robotics Interests
-
-I'm beginning to focus more on robotics and intelligent systems. As I build hands-on projects, I'll add the tools, hardware, demos, and lessons learned here.
-
-## Setup
-
-This is a GitHub profile README. No installation is required. To display it on your profile, put this file in the public repository named `TarikurRahmanBD`.
-
 <div align="center">
+
 
 ## Connect
 
