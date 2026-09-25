@@ -1,69 +1,127 @@
-<div align="center">
-
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
+	<img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&label=Profile%20Views&color=0e76a8&style=flat&base=1471" alt="Profile Views" />
 </p>
 
-<br/>
+<div align="center">
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/d65eb876-7ef5-4fab-9abb-4f048e35a079" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/518d5310-413d-4ec6-8acb-44136701c956" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a93644c5-5c55-4b93-b3e9-3e52915b05a4" />
 
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourtarikur.netlify.app/)
-[![Demon71](https://img.shields.io/badge/Demon71_Project-FF004F?style=for-the-badge&logo=rocket&logoColor=white)](https://demon71.netlify.app/)
-[![Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahman08)
+# Tarikur Rahman
+
+### Robotics & AI Explorer | Computer Vision | Web Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Exploring+Robotics+%26+AI;Building+with+Computer+Vision;Creating+useful+web+projects)](https://git.io/typing-svg)
+
+ *Hi, I'm Tarikur Rahman, a developer from Bangladesh exploring robotics, AI, and computer vision. I enjoy turning ideas into practical projects.*
 
 </div>
 
 ---
 
-### 🚀 **Who am I?**
-I am a **Digital Craftsman** merging the logic of **Robotics** with the beauty of **Modern Web Design**. My mission is to build digital products that feel futuristic—using Glassmorphism, Neon aesthetics, and high-performance code.
-
-- 🏗️ **Core Project:** [Demon71 (Team Flux)](https://demon71.netlify.app/) — A high-end university website project.
-- 🖋️ **Role:** Research Editor at **Udvaboni Biggan Club**.
-- 🕷️ **Legacy:** Solving problems with the precision of Iron Man and the agility of Spider-Man.
-- 🎓 **Education:** Alif Subhan Chowdhury Government College.
-
----
-
-### 💻 **Tech Arsenal**
-
 <div align="center">
 
-| **Frontend Development** | **Design & UI/UX** | **Tools & Backend** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" /> | <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,git,vercel" /> |
+## About Me
+
+<table align="center">
+	<tr>
+		<td align="center" valign="top" width="33%"><strong>Exploring</strong><br>Robotics · AI · Computer Vision</td>
+		<td align="center" valign="top" width="33%"><strong>Building</strong><br>Web projects and computer-vision experiments</td>
+		<td align="center" valign="top" width="33%"><strong>Open to</strong><br>Learning, collaboration, and useful projects</td>
+	</tr>
+</table>
 
 </div>
 
----
-
-### 🏗️ **Flagship Projects**
-| Project Name | Live Link | Status |
-| :--- | :--- | :--- |
-| **Personal Portfolio** | [Visit Website](https://yourtarikur.netlify.app/) | ✅ Live |
-| **Demon71 (Team Flux)** | [View Demo](https://demon71.netlify.app/) | ⚡ Production Ready |
-
----
-
-### 📈 **Digital Analytics & Impact**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarikurrahmanbd&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikurrahmanbd&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff" width="48%" />
+
+## Experience
+
+<table align="center" width="700">
+	<tr>
+		<th align="center" width="175">Role</th>
+		<th align="center" width="350">Organization</th>
+		<th align="center" width="175">Period</th>
+	</tr>
+	<tr>
+		<td align="center">System Architect</td>
+		<td align="center"><a href="https://www.facebook.com/teamdemon71">Team DEMON71</a></td>
+		<td align="center">Apr 2026 – Present</td>
+	</tr>
+	<tr>
+		<td align="center">Founder</td>
+		<td align="center"><a href="https://www.facebook.com/RoboHaatBD">Robo Haat BD</a></td>
+		<td align="center">Dec 2025 – Present</td>
+	</tr>
+	<tr>
+		<td align="center">Club Secretary</td>
+		<td align="center"><a href="https://www.facebook.com/udvabonibigganclubbahubal">Udvaboni Biggan Club Bahubal</a></td>
+		<td align="center">Oct 2025 – Present</td>
+	</tr>
+	<tr>
+		<td align="center">Research Editor</td>
+		<td align="center"><a href="https://udvabonibd.org/">Udvaboni Biggan Club</a></td>
+		<td align="center">Feb 2023 – Present</td>
+	</tr>
+</table>
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarikurrahmanbd&theme=tokyonight" width="100%" />
+
+## Awards & Achievements
+
 </div>
 
----
+<table align="center">
+	<tr>
+		<td valign="top" width="50%">
+			<h3 align="center">National Achievements</h3>
+			<ul>
+				<li><strong>Gold Medalist</strong><br>8th World Invention Competition and Exhibition (WICE) 2026</li>
+				<li><strong>Special 5th Place</strong><br>47th National Science &amp; Technology Week 2026</li>
+				<li><strong>Finalist (National Round)</strong><br>Fibonacci International Robot &amp; STEM Olympiad 2026</li>
+				<li><strong>Finalist</strong><br>National Science Fest 2025</li>
+			</ul>
+		</td>
+		<td valign="top" width="50%">
+			<h3 align="center">Division, District &amp; Upazila Achievements</h3>
+			<ul>
+				<li><strong>1st Place · Divisional</strong><br>47th National Science &amp; Technology Fair 2026</li>
+				<li><strong>1st Place · District</strong><br>47th National Science &amp; Technology Fair 2026</li>
+				<li><strong>1st Place · Upazila</strong><br>47th National Science &amp; Technology Fair 2026</li>
+				<li><strong>1st Place · Upazila</strong><br>National Children's Award Competition 2022</li>
+				<li><strong>2nd Place · District</strong><br>National Children's Award Competition 2022</li>
+			</ul>
+		</td>
+	</tr>
+</table>
 
-### 🤝 **Let's Build Something Legendary**
-- 💬 Ask me about: **Web Design, Robotics, and the Marvel Cinematic Universe.**
-- 📫 Reach Me: Via my [Portfolio](https://yourtarikur.netlify.app/) or [Facebook](https://www.facebook.com/tarikurrahman08).
+## What I Work With
+
+`Python` · `TypeScript` · `HTML` · `CSS` · `YOLOv8`
+
+## Featured Projects
+
+| Project | Description |
+| --- | --- |
+| [YOLOv8 Cars Detection](https://github.com/TarikurRahmanBD/YOLOv8-Cars-Detection) | A computer-vision project for detecting cars with YOLOv8. |
+| [Demon71](https://demon71.netlify.app/) | A university website project built with Team Flux. |
+| [UBCB-Core](https://github.com/TarikurRahmanBD/UBCB-Core) | A project connected to Udvaboni Biggan Club. |
+| [Team Flux Robotics AI Hub Template](https://github.com/TarikurRahmanBD/Team-Flux-Robotics-AI-Hub-Portfolio-Template) | A portfolio template for a robotics and AI team. |
+
+## Robotics Interests
+
+I'm beginning to focus more on robotics and intelligent systems. As I build hands-on projects, I'll add the tools, hardware, demos, and lessons learned here.
+
+## Setup
+
+This is a GitHub profile README. No installation is required. To display it on your profile, put this file in the public repository named `TarikurRahmanBD`.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=80&section=footer" width="100%" />
-  <br/>
-  <b>"I don't just write code; I craft digital experiences." 🕶️</b>
+
+## Connect
+
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-00D2FF?style=flat-square&logo=vercel&logoColor=white)](https://yourtarikur.vercel.app/) [![My Bio](https://img.shields.io/badge/My_Bio-36BCF7?style=flat-square)](https://mybio.bd/yourtarikur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahman08) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmanBD) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahman08) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahman08) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahman.bd) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahman.bd) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
+
 </div>
