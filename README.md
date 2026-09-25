@@ -10,23 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Exploring+Robotics+%26+AI;Building+with+Computer+Vision;Creating+useful+web+projects)](https://git.io/typing-svg)
 
- *Hi, I'm Tarikur Rahman, a developer from Bangladesh exploring robotics, AI, and computer vision. I enjoy turning ideas into practical projects.*
-
-</div>
-
----
-
-<div align="center">
-
-## About Me
-
-<table align="center">
-	<tr>
-		<td align="center" valign="top" width="33%"><strong>Exploring</strong><br>Robotics · AI · Computer Vision</td>
-		<td align="center" valign="top" width="33%"><strong>Building</strong><br>Web projects and computer-vision experiments</td>
-		<td align="center" valign="top" width="33%"><strong>Open to</strong><br>Learning, collaboration, and useful projects</td>
-	</tr>
-</table>
+*Hi, I'm Tarikur Rahman, a developer from Bangladesh exploring robotics, AI, and computer vision. I enjoy turning ideas into practical projects.*
 
 </div>
 
@@ -101,9 +85,9 @@
 
 <div align="center">
 
-
 ## Connect
 
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-00D2FF?style=flat-square&logo=vercel&logoColor=white)](https://yourtarikur.vercel.app/) [![My Bio](https://img.shields.io/badge/My_Bio-36BCF7?style=flat-square)](https://mybio.bd/yourtarikur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahman08) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmanBD) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahman08) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahman08) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahman.bd) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahman.bd) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-00D2FF?style=flat-square&logo=vercel&logoColor=white)](https://yourtarikur.vercel.app/) [![My Bio](https://img.shields.io/badge/My_Bio-36BCF7?style=flat-square)](https://mybio.bd/yourtarikur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahman08) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmanBD)<br />
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahman08) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahman08) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahman.bd) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahman.bd) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
 
 </div>
