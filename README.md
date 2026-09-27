@@ -17,10 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahman08)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
 
-</div>
-
-<br>
-
 <div align="center">
 
 ## 👨‍💻 About Me
@@ -30,24 +26,31 @@
 - 🔭 Currently **System Architect** at **Team DEMON71**
 - 🚀 Founder of **Robo Haat BD**
 - 🔬 Research Editor at **Udvaboni Biggan Club**
-- 🏆 Gold Medalist — 8th World Invention Competition and Exhibition (WICE) 2026
-- 🌱 Building projects around robotics, computer vision, and applied AI
-- 📫 Reach me at **tarikurrahman08@gmail.com**
+- 📫 Reach me at **[tarikurrahman08@gmail.com](mailto:tarikurrahman08@gmail.com)**
 
 <br>
-
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
+### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Robotics & Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Web Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Tools
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
