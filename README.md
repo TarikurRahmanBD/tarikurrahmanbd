@@ -1,8 +1,7 @@
-<p align="right">
-	<img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&label=Profile%20Views&color=0e76a8&style=flat&base=1471" alt="Profile Views" />
-</p>
-
-<p align="right"><a href="README.bd.md">বাংলা সংস্করণ</a></p>
+<div align="right">
+	<img src="https://img.shields.io/badge/EN--0e76a8?style=flat-square&labelColor=0e76a8" alt="English" /><a href="README.bd.md"><img src="https://img.shields.io/badge/BN--e8e8e8?style=flat-square&labelColor=e8e8e8" alt="বাংলা সংস্করণ" /></a><br>
+	<img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&label=Profile%20Views&color=0e76a8&style=flat-square&base=1471" alt="Profile Views" />
+</div>
 
 <div align="center">
 
