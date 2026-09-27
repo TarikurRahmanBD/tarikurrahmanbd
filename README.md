@@ -36,10 +36,7 @@
 
 <br>
 
-<!--
-	নিচে তোমার আসল টুলস/ল্যাংগুয়েজ বসাও (যেমন Python, C++, Arduino, OpenCV, ইত্যাদি)।
-	badge বানানোর জন্য দেখো: https://github.com/Ileriayo/markdown-badges
--->
+
 <div align="center">
 
 ## 🛠️ Tech Stack
