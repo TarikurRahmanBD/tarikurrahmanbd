@@ -5,6 +5,10 @@
 
 <div align="center">
 
+<p align="center">
+	<img src="assets/qntm.gif" width="220" alt="Animated Robot">
+</p>
+
 # Tarikur Rahman
 
 ### রোবোটিক্স ও AI অনুসন্ধানী | কম্পিউটার ভিশন | ওয়েব ডেভেলপার
