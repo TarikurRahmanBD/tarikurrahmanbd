@@ -6,7 +6,7 @@
 <div align="center">
 
 <p align="center">
-	<img src="assets/qntm.gif" width="220" alt="Animated Robot">
+	<img src="assets/Robot-Bot%203D.svg" width="220" alt="Animated Robot-Bot 3D">
 </p>
 
 # Tarikur Rahman
