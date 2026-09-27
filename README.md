@@ -72,6 +72,6 @@
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmanBD) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahman08) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahman08) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahman.bd) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahman.bd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmanBD) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahman08) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahman.bd) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahman.bd) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahman.bd)
 
 </div>
