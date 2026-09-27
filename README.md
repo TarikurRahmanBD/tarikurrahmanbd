@@ -12,7 +12,50 @@
 
 *Hi, I'm Tarikur Rahman, a developer from Bangladesh exploring robotics, AI, and computer vision. I enjoy turning ideas into practical projects.*
 
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-00D2FF?style=flat-square&logo=vercel&logoColor=white)](https://yourtarikur.vercel.app/)
+[![Bio](https://img.shields.io/badge/My_Bio-36BCF7?style=flat-square)](https://mybio.bd/yourtarikur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahman08)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
+
 </div>
+
+<br>
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+</div>
+
+- 🔭 Currently **System Architect** at **Team DEMON71**
+- 🚀 Founder of **Robo Haat BD**
+- 🔬 Research Editor at **Udvaboni Biggan Club**
+- 🏆 Gold Medalist — 8th World Invention Competition and Exhibition (WICE) 2026
+- 🌱 Building projects around robotics, computer vision, and applied AI
+- 📫 Reach me at **tarikurrahman08@gmail.com**
+
+<br>
+
+<!--
+	নিচে তোমার আসল টুলস/ল্যাংগুয়েজ বসাও (যেমন Python, C++, Arduino, OpenCV, ইত্যাদি)।
+	badge বানানোর জন্য দেখো: https://github.com/Ileriayo/markdown-badges
+-->
+<div align="center">
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -53,6 +96,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 ## Awards & Achievements
@@ -82,6 +127,19 @@
 		</td>
 	</tr>
 </table>
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=TarikurRahmanBD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikurRahmanBD&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+
+</div>
+
+<br>
 
 <div align="center">
 
