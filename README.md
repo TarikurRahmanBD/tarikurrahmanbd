@@ -2,6 +2,8 @@
 	<img src="https://komarev.com/ghpvc/?username=tarikurrahmanbd&label=Profile%20Views&color=0e76a8&style=flat&base=1471" alt="Profile Views" />
 </p>
 
+<p align="right"><a href="README.bd.md">বাংলা সংস্করণ</a></p>
+
 <div align="center">
 
 # Tarikur Rahman
