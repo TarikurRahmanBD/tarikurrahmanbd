@@ -20,7 +20,7 @@
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-00D2FF?style=flat-square&logo=vercel&logoColor=white)](https://yourtarikur.vercel.app/)
 [![Bio](https://img.shields.io/badge/My_Bio-36BCF7?style=flat-square)](https://mybio.bd/yourtarikur)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahman08)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman2008@gmail.com)
 
 </div>
 
