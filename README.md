@@ -75,7 +75,7 @@
 
 <div align="center">
 
-# GitHub Stats Preview
+## GitHub Stats
 
 <table>
 	<tr>
