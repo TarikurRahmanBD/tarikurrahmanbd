@@ -75,6 +75,19 @@
 
 <div align="center">
 
+## GitHub পরিসংখ্যান
+
+<table>
+	<tr>
+		<td width="50%" align="center">
+			<img src="https://ghstats.dev/api/card?username=TarikurRahmanBD&amp;hide_border=true&amp;hide=issues" width="100%" alt="GitHub Stats Card" />
+		</td>
+		<td width="50%" align="center">
+			<img src="https://ghstats.dev/api/langs?username=TarikurRahmanBD&amp;hide_border=true&amp;max_langs=10&amp;layout=vertical_list" width="100%" alt="Top Languages" />
+		</td>
+	</tr>
+</table>
+
 ## যোগাযোগ
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmanBD) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahman08) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahman.bd) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahman.bd) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahman.bd)
