@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
 **Robotics & Hardware:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP](https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white)<br>
