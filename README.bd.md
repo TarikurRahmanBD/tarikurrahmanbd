@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## 👨‍💻 আমার সম্পর্কে
+## আমার সম্পর্কে
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## 🛠️ প্রযুক্তির দক্ষতা
+## প্রযুক্তির দক্ষতা
 
 **প্রোগ্রামিং:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
 **রোবোটিক্স ও হার্ডওয়্যার:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP](https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white)<br>
