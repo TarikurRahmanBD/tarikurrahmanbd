@@ -66,6 +66,7 @@
 				<li><strong>1st Place · Divisional</strong><br>47th National Science &amp; Technology Fair 2026</li>
 				<li><strong>1st Place · District</strong><br>47th National Science &amp; Technology Fair 2026</li>
 				<li><strong>1st Place · Upazila</strong><br>47th National Science &amp; Technology Fair 2026</li>
+				<li><strong>2nd Place · Upazila</strong><br>46th National Science &amp; Technology Fair 2025</li>
 				<li><strong>1st Place · Upazila</strong><br>45th National Science &amp; Technology Fair 2024</li>
 				<li><strong>1st Place · Upazila</strong><br>National Children's Award Competition 2022</li>
 				<li><strong>2nd Place · District</strong><br>National Children's Award Competition 2022</li>
